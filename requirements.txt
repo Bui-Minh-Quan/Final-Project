@@ -1,0 +1,9 @@
+pytorch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+matplotlib
+PIL
+tqdm
